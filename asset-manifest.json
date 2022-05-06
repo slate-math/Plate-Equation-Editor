@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Plate-Equation-Editor/static/css/main.18be89ad.chunk.css",
+    "main.js": "/Plate-Equation-Editor/static/js/main.fd79d03b.chunk.js",
+    "main.js.map": "/Plate-Equation-Editor/static/js/main.fd79d03b.chunk.js.map",
+    "runtime-main.js": "/Plate-Equation-Editor/static/js/runtime-main.21613539.js",
+    "runtime-main.js.map": "/Plate-Equation-Editor/static/js/runtime-main.21613539.js.map",
+    "static/css/2.04607c25.chunk.css": "/Plate-Equation-Editor/static/css/2.04607c25.chunk.css",
+    "static/js/2.9bb4b5c1.chunk.js": "/Plate-Equation-Editor/static/js/2.9bb4b5c1.chunk.js",
+    "static/js/2.9bb4b5c1.chunk.js.map": "/Plate-Equation-Editor/static/js/2.9bb4b5c1.chunk.js.map",
+    "index.html": "/Plate-Equation-Editor/index.html",
+    "static/css/2.04607c25.chunk.css.map": "/Plate-Equation-Editor/static/css/2.04607c25.chunk.css.map",
+    "static/css/main.18be89ad.chunk.css.map": "/Plate-Equation-Editor/static/css/main.18be89ad.chunk.css.map",
+    "static/js/2.9bb4b5c1.chunk.js.LICENSE.txt": "/Plate-Equation-Editor/static/js/2.9bb4b5c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21613539.js",
+    "static/css/2.04607c25.chunk.css",
+    "static/js/2.9bb4b5c1.chunk.js",
+    "static/css/main.18be89ad.chunk.css",
+    "static/js/main.fd79d03b.chunk.js"
+  ]
+}
